@@ -1,6 +1,4 @@
-# ESP8266 Template Project with GoogleTest
-
-Starter project for ESP8266 (NodeMCU v2 ESP-12F) based projects.
+# Displaying data from the Internet on an OLED screen with ESP8266
 
 Created as a part of #100DaysOfCode challenge.
 
